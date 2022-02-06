@@ -1,0 +1,12 @@
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\bin\Debug\net5.0\DecaBlog.Models.deps.json
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\bin\Debug\net5.0\DecaBlog.Models.dll
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\bin\Debug\net5.0\ref\DecaBlog.Models.dll
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\bin\Debug\net5.0\DecaBlog.Models.pdb
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\obj\Debug\net5.0\DecaBlog.Models.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\obj\Debug\net5.0\DecaBlog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\obj\Debug\net5.0\DecaBlog.Models.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\obj\Debug\net5.0\DecaBlog.Models.AssemblyInfo.cs
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\obj\Debug\net5.0\DecaBlog.Models.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\obj\Debug\net5.0\DecaBlog.Models.dll
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\obj\Debug\net5.0\ref\DecaBlog.Models.dll
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Models\obj\Debug\net5.0\DecaBlog.Models.pdb
