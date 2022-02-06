@@ -1,0 +1,15 @@
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\bin\Debug\net5.0\DecaBlog.Commons.deps.json
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\bin\Debug\net5.0\DecaBlog.Commons.dll
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\bin\Debug\net5.0\ref\DecaBlog.Commons.dll
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\bin\Debug\net5.0\DecaBlog.Commons.pdb
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\bin\Debug\net5.0\DecaBlog.Models.dll
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\bin\Debug\net5.0\DecaBlog.Models.pdb
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\obj\Debug\net5.0\DecaBlog.Commons.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\obj\Debug\net5.0\DecaBlog.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\obj\Debug\net5.0\DecaBlog.Commons.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\obj\Debug\net5.0\DecaBlog.Commons.AssemblyInfo.cs
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\obj\Debug\net5.0\DecaBlog.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\obj\Debug\net5.0\DecaBlog.Commons.csproj.CopyComplete
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\obj\Debug\net5.0\DecaBlog.Commons.dll
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\obj\Debug\net5.0\ref\DecaBlog.Commons.dll
+C:\Users\Decagon\Documents\DECAGON\C#\PROJECTS\deca-blog\DecaBlog_Sln\DecaBlog.Commons\obj\Debug\net5.0\DecaBlog.Commons.pdb
