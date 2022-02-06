@@ -1663,11 +1663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\deca-blog\\DecaBlog_Sln\\DecaBlog.Data\\DecaBlog.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\Blog\\DecaBlog_Sln\\DecaBlog.Data\\DecaBlog.Data.csproj",
       "projectName": "DecaBlog.Data",
-      "projectPath": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\deca-blog\\DecaBlog_Sln\\DecaBlog.Data\\DecaBlog.Data.csproj",
+      "projectPath": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\Blog\\DecaBlog_Sln\\DecaBlog.Data\\DecaBlog.Data.csproj",
       "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\deca-blog\\DecaBlog_Sln\\DecaBlog.Data\\obj\\",
+      "outputPath": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\Blog\\DecaBlog_Sln\\DecaBlog.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1690,11 +1690,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\deca-blog\\DecaBlog_Sln\\DecaBlog.Commons\\DecaBlog.Commons.csproj": {
-              "projectPath": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\deca-blog\\DecaBlog_Sln\\DecaBlog.Commons\\DecaBlog.Commons.csproj"
+            "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\Blog\\DecaBlog_Sln\\DecaBlog.Commons\\DecaBlog.Commons.csproj": {
+              "projectPath": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\Blog\\DecaBlog_Sln\\DecaBlog.Commons\\DecaBlog.Commons.csproj"
             },
-            "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\deca-blog\\DecaBlog_Sln\\DecaBlog.Models\\DecaBlog.Models.csproj": {
-              "projectPath": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\deca-blog\\DecaBlog_Sln\\DecaBlog.Models\\DecaBlog.Models.csproj"
+            "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\Blog\\DecaBlog_Sln\\DecaBlog.Models\\DecaBlog.Models.csproj": {
+              "projectPath": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\Blog\\DecaBlog_Sln\\DecaBlog.Models\\DecaBlog.Models.csproj"
             }
           }
         }

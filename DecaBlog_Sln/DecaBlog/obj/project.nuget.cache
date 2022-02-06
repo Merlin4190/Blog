@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e33wipX0A5V1gHgfzreHdOq/u6vFLXwLJW9NdSg15k8xMCDayJPUp2bogNwQZo+yqDXE/6WDVY6EozK4fwD4jQ==",
+  "dgSpecHash": "rkJ/A9MEoTX3hmNFHvddM0FkQDCrow21rfTd+fHvc37vGqPsvwpctV5B9MGe6LajRPENMUBET0m1wg1wxEhhNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\deca-blog\\DecaBlog_Sln\\DecaBlog\\DecaBlog.csproj",
+  "projectFilePath": "C:\\Users\\Decagon\\Documents\\DECAGON\\C#\\PROJECTS\\Blog\\DecaBlog_Sln\\DecaBlog\\DecaBlog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Decagon\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\Decagon\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\4.0.1\\automapper.extensions.microsoft.dependencyinjection.4.0.1.nupkg.sha512",
